@@ -1,9 +1,10 @@
 {
   "format": "guoflix.playback-routes",
-  "schema": 1,
-  "revision": 2026101601,
+  "schema": 2,
+  "revision": 2026102102,
   "single": {
     "host": "api5-normal-sinfonlineb.fqnovel.com",
+    "mode": "multi",
     "query": {
       "aid": "8662",
       "app_name": "novelread",
