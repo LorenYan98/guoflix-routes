@@ -2,13 +2,10 @@
 
 适配 Android TV 和遥控器的短剧播放器。
 
-## 下载与安装
+## 项目说明
 
-前往 [下载页面](https://github.com/LorenYan98/guoflix-routes/releases/latest)，选择以 `.apk` 结尾的文件，下载后在电视上安装。
+支持 Android 8.0 及以上系统。当前版本仅公开源码和 Git 备份，不提供公开 APK 下载。
 
-- 支持 Android 8.0 及以上系统。
-- 已安装旧版时直接覆盖安装，可保留收藏、观看记录和设置。
-- 完整源码 ZIP 和 Git bundle 也随安装包提供。
 
 ## 线路配置
 
@@ -24,7 +21,6 @@
 
 - `source.zip`：完整源码。
 - `.bundle`：包含提交历史的 Git 备份。
-- `.sha256`：APK 校验值。
 
 应用派生源码遵循 GPL-3.0-only，第三方声明与构建文件随源码包提供。
 
